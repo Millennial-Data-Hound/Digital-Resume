@@ -21,8 +21,8 @@ Senior Data Analyst, assisting enterprises by supporting data-driven decision-ma
 EMAIL = "johndoe@email.com"
 SOCIAL_MEDIA = {
     "YouTube": "https://youtube.com/c/codingisfun",
-    "LinkedIn": "https://linkedin.com",
-    "GitHub": "https://github.com",
+    "LinkedIn": "https://linkedin/in/stephensimmonsda.com",
+    "GitHub": "https://github.com/MrSimmons2u/Stephen_Simmons_Repository",
     "Twitter": "https://twitter.com",
 }
 PROJECTS = {
