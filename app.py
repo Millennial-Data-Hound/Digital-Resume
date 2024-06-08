@@ -22,7 +22,7 @@ EMAIL = "larrysimmons1@live.com"
 SOCIAL_MEDIA = {
     "YouTube": "https://youtube.com/c/codingisfun",
     "LinkedIn": "https://linkedin/in/stephensimmonsda.com",
-    "GitHub": "https://github.com/MrSimmons2u/Stephen_Simmons_Repository",
+    "GitHub": "https://github.com/Millennial-Data-Hound/Digital-Resume",
     "Twitter": "https://twitter.com",
 }
 PROJECTS = {
