@@ -73,7 +73,7 @@ st.subheader("Experience & Qualifications")
 st.write(
     """
 - ✔️ 12+ years of demonstrated excellence in Data Analytics
-- ✔️ Leverages Python, R, Advanced SQL to Extract, Tranforms and Loads data
+- ✔️ Leverages Python, R, Advanced SQL to Extract, Tranform and Load data
 - ✔️ Performs Statistical Analysis to produce Impactful Insights that enhance Financial and Operational Decision-Making
 - ✔️ Clearly Communicates Meaningful Insights to Technical and Non-Technical Stakeholders
 - ✔️ Microsoft Excel Power-User
