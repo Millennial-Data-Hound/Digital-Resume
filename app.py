@@ -21,8 +21,9 @@ Senior Data Analyst, assisting enterprises by supporting data-driven decision-ma
 EMAIL = "larrysimmons1@live.com"
 SOCIAL_MEDIA = {
     "YouTube": "https://youtube.com/c/codingisfun",
-    "LinkedIn": "https://www.linkedin.com/in/stephensimmonsda/",
-    "GitHub": "https://github.com/Millennial-Data-Hound/Digital-Resume"
+    "LinkedIn": "https://linkedin.com/in/stephensimmonsda.com",
+    "GitHub": "https://github.com/MrSimmons2u/Stephen_Simmons_Repository",
+    "Twitter": "https://twitter.com",
 }
 PROJECTS = {
     "🏆 Sales Dashboard - Comparing sales across three stores": "https://youtu.be/Sb0A9i6d320",
