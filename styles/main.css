@@ -1,0 +1,76 @@
+/* CSS for making the webpage look nice */
+
+/* Set a background color and font for the entire webpage */
+body {
+    background-color: #f4f4f4; /* Light grey background */
+    font-family: Arial, sans-serif; /* Clean, readable font */
+    color: #333; /* Dark grey text color */
+}
+
+/* Style for the title */
+h1 {
+    color: #4CAF50; /* Green color for the title */
+    text-align: center; /* Center the title */
+    padding: 20px; /* Add some space around the title */
+}
+
+/* Style for subheaders */
+h2, h3 {
+    color: #4CAF50; /* Green color for subheaders */
+    padding: 10px; /* Add some space around subheaders */
+}
+
+/* Style for paragraphs */
+p {
+    line-height: 1.6; /* Add more space between lines */
+    margin: 10px 0; /* Add space above and below paragraphs */
+}
+
+/* Style for links */
+a {
+    color: #1E90FF; /* Blue color for links */
+    text-decoration: none; /* Remove underline from links */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline links when you hover over them */
+}
+
+/* Style for the resume download button */
+.download-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    text-align: center; /* Center the text */
+    text-decoration: none; /* Remove underline from text */
+    border-radius: 5px; /* Rounded corners */
+}
+
+.download-button:hover {
+    background-color: #45a049; /* Darker green when you hover */
+}
+
+/* Style for images */
+img {
+    border-radius: 50%; /* Make images round */
+    border: 5px solid #4CAF50; /* Add a green border around images */
+}
+
+/* Style for columns */
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Add some spacing around the social media links */
+.social-media a {
+    margin-right: 10px;
+}
