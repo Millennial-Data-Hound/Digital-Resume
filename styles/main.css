@@ -9,14 +9,14 @@ body {
 
 /* Style for the title */
 h1 {
-    color: #1a1864; /* Blue color for the title */
+    color: #f4f4f4; /* Blue color for the title */
     text-align: center; /* Center the title */
     padding: 20px; /* Add some space around the title */
 }
 
 /* Style for subheaders */
 h2, h3 {
-    color: #1a1864; /* Blue color for subheaders */
+    color: #f4f4f4; /* Blue color for subheaders */
     padding: 10px; /* Add some space around subheaders */
 }
 
@@ -40,7 +40,7 @@ a:hover {
 .download-button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #1a1864; /* Blue background */
+    background-color: #f4f4f4; /* Blue background */
     color: white; /* White text */
     text-align: center; /* Center the text */
     text-decoration: none; /* Remove underline from text */
@@ -48,13 +48,13 @@ a:hover {
 }
 
 .download-button:hover {
-    background-color: #1a1864; /* Darker blue when you hover */
+    background-color: #f4f4f4; /* Darker blue when you hover */
 }
 
 /* Style for images */
 img {
     border-radius: 50%; /* Make images round */
-    border: 5px solid #1a1864; /* Add a blue border around images */
+    border: 5px solid #f4f4f4; /* Add a blue border around images */
 }
 
 /* Style for columns */
